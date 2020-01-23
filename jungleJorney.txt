@@ -8,4 +8,4 @@ List of elements we need:
 3. A rope 
 4. A ligther
 5. Canned food
-
+6. A first aid kit
